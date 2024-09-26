@@ -1,6 +1,3 @@
-# end-of-phase-1-project
-By Joy Gitau
-
 # Aviation Accident Analysis
 
 ## Project Overview
@@ -29,8 +26,7 @@ Clone the repository:
 git clone <repository-url>
 Navigate to the project directory:
 cd <name-of-directory>
-Open the Jupyter notebook:
-jupyter notebook 
+Open <your-notebook-application>
     
 ## Data Cleaning and Preparation
 In this section, we detail the data cleaning process, including handling missing values and data type conversions. The cleaned dataset is used for further analysis. 
@@ -39,21 +35,21 @@ In this section, we detail the data cleaning process, including handling missing
 The analysis is conducted with the aim of providing valuable insights to company stakeholders. The objective is determine the potential risks of aircrafts and to provide recommendations about which aircraft models would be of the lowest risk for the company to invest in.
 The analysis includes:
 
-Bar charts of accidents by aircraft Make and Model
-Line plots for correlation between injury types
-Line plots for Total Accidents by weather condition
-Time series analysis of trends over the years
-[Here is my Tableau Dashboard with addidtional Visualizations] (https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Bar charts of accidents by aircraft Make and Model
+- Line plots for correlation between injury types
+- Line plots for Total Accidents by weather condition
+- Time series analysis of trends over the years
+[For more Visualizations] (https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 ## Key Findings
 Certain aircraft categories exhibit lower accident rates.
 Adverse weather conditions correlate with more accidents and higher total injuries.
-    presentation- https://docs.google.com/presentation/d/1aKcoomGOx3dadl9XBWRZdeFGosfuYmgmohNMtGTOWRc/edit?usp=sharing
+    [presentation] (https://docs.google.com/presentation/d/1aKcoomGOx3dadl9XBWRZdeFGosfuYmgmohNMtGTOWRc/edit?usp=sharing)
     
 ## Conclusion and Recommendations
 The analysis provides actionable insights for the aviation division. It is recommended to prioritize aircraft types with lower risks and establish protocols for managing adverse weather conditions.
 
-## License
-
-    add license
-    This project is licensed under the MIT License. See the LICENSE file for more details.
+## Additional Information and resources
+Refer to the Notebook file in this repository to see the step by step process.
+Refer to the Tableau Dashboard for interractive visualizations: (https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+For more information contact Mweru Gitau at mweruwagitau@gmail.com
