@@ -39,18 +39,20 @@ The analysis includes:
 - Line plots for correlation between injury types
 - Line plots for Total Accidents by weather condition
 - Time series analysis of trends over the years
-[For more Visualizations] (https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[For more Visualizations](https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 ## Key Findings
 Certain aircraft categories exhibit lower accident rates.
 Adverse weather conditions correlate with more accidents and higher total injuries.
-    [presentation] (https://docs.google.com/presentation/d/1aKcoomGOx3dadl9XBWRZdeFGosfuYmgmohNMtGTOWRc/edit?usp=sharing)
+
+[See Slide presentation here](https://docs.google.com/presentation/d/1aKcoomGOx3dadl9XBWRZdeFGosfuYmgmohNMtGTOWRc/edit?usp=sharing)
     
 ## Conclusion and Recommendations
 The analysis provides actionable insights for the aviation division. It is recommended to prioritize aircraft types with lower risks and establish protocols for managing adverse weather conditions.
 
 ## Additional Information and resources
 Refer to the Notebook file in this repository to see the step by step process.
-Refer to the Tableau Dashboard for interractive visualizations: (https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Refer to the Tableau [Dashboard](https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for interractive visualizations.
 
 For more information contact Mweru Gitau at mweruwagitau@gmail.com
