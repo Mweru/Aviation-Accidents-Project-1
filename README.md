@@ -13,11 +13,11 @@ Dataset Size: 88889 entries with 31 columns
 
 ## Installation
 To run the analysis on your notebook, ensure you have the following libraries installed:
-import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-%matplotlib inline
+`import pandas as pd`
+`import numpy as np`
+`import seaborn as sns`
+`import matplotlib.pyplot as plt`
+`%matplotlib inline`
 
 ## Usage
 Fork the the repository:
@@ -52,4 +52,5 @@ The analysis provides actionable insights for the aviation division. It is recom
 ## Additional Information and resources
 Refer to the Notebook file in this repository to see the step by step process.
 Refer to the Tableau Dashboard for interractive visualizations: (https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 For more information contact Mweru Gitau at mweruwagitau@gmail.com
