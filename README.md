@@ -11,22 +11,12 @@ We are working with a CSV version of the Aviation Accident & Synopses named Avia
 Each record represents an aviation accident/incident.
 Dataset Size: 88889 entries with 31 columns
 
-## Installation
-To run the analysis on your notebook, ensure you have the following libraries installed:
-`import pandas as pd`
-`import numpy as np`
-`import seaborn as sns`
-`import matplotlib.pyplot as plt`
-`%matplotlib inline`
-
-## Usage
-Fork the the repository:
-Click on the Fork button at the top right of this repository on GitHub
-Clone the repository:
-git clone <repository-url>
-Navigate to the project directory:
-cd <name-of-directory>
-Open <your-notebook-application>
+## How to contribute/ Usage
+- Fork this repository(optional)
+- Clone the repository to your device
+- Navigate to the project directory
+- Open your desired notebook application and share your contributions
+- When done, push your commits to your repository
     
 ## Data Cleaning and Preparation
 In this section, we detail the data cleaning process, including handling missing values and data type conversions. The cleaned dataset is used for further analysis. 
@@ -40,7 +30,7 @@ The analysis includes:
 - Line plots for Total Accidents by weather condition
 - Time series analysis of trends over the years
 
-[For more Visualizations](https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[More Visualizations can be found on my dashboard](https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) and in the Notebook file.
     
 ## Key Findings
 Certain aircraft categories exhibit lower accident rates.
@@ -49,7 +39,13 @@ Adverse weather conditions correlate with more accidents and higher total injuri
 [See Slide presentation here](https://docs.google.com/presentation/d/1aKcoomGOx3dadl9XBWRZdeFGosfuYmgmohNMtGTOWRc/edit?usp=sharing)
     
 ## Conclusion and Recommendations
-The analysis provides actionable insights for the aviation division. It is recommended to prioritize aircraft types with lower risks and establish protocols for managing adverse weather conditions.
+The analysis provides actionable insights for the aviation division. It is recommended to prioritize aircraft types with lower risks and establish protocols for managing adverse weather conditions. Here are the 3 main recommendations based on my results; 
+1. When selecting the Make of the Aircraft to purchase, we should least consider Cessna and Piper.
+2. We should ensure we utilize IMC weather condition aircraft instruments.
+3. Consider aircraft types that have 2 or more engines since the acciedent rate is lower. 
+
+In summary, aircraft accidents can cause aircraft damage leading to fatal injurie. Therefore, as a company it is our responsibility to take the neceassary steps to mitigate the risks. 
+
 
 ## Additional Information and resources
 Refer to the Notebook file in this repository to see the step by step process.
