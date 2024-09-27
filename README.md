@@ -22,7 +22,7 @@ Dataset Size: 88889 entries with 31 columns
 In this section, we detail the data cleaning process, including handling missing values and data type conversions. The cleaned dataset is used for further analysis. 
 
 ## Analysis and Visualizations
-The analysis is conducted with the aim of providing valuable insights to company stakeholders. The objective is determine the potential risks of aircrafts and to provide recommendations about which aircraft models would be of the lowest risk for the company to invest in.
+The analysis is conducted with the aim of providing valuable insights to company stakeholders. The objective is to determine the potential risks of aircrafts and to provide recommendations about which aircraft models would be of the lowest risk for the company to invest in.
 The analysis includes:
 
 - Bar charts of accidents by aircraft Make and Model
@@ -33,8 +33,9 @@ The analysis includes:
 [More Visualizations can be found on my dashboard](https://public.tableau.com/views/Phase1-Project_17273071137820/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) and in the Notebook file.
     
 ## Key Findings
-Certain aircraft categories exhibit lower accident rates.
-Adverse weather conditions correlate with more accidents and higher total injuries.
+Certain aircraft categories exhibit lower accident rates, others high, we should least consider those with a record of high number of accidents
+Adverse weather conditions correlate with more accidents and as as result higher total injuries.
+The aircrafts with 1 engine have recorded high number of accidents
 
 [See Slide presentation here](https://docs.google.com/presentation/d/1aKcoomGOx3dadl9XBWRZdeFGosfuYmgmohNMtGTOWRc/edit?usp=sharing)
     
@@ -44,7 +45,7 @@ The analysis provides actionable insights for the aviation division. It is recom
 2. We should ensure we utilize IMC weather condition aircraft instruments.
 3. Consider aircraft types that have 2 or more engines since the acciedent rate is lower. 
 
-In summary, aircraft accidents can cause aircraft damage leading to fatal injurie. Therefore, as a company it is our responsibility to take the neceassary steps to mitigate the risks. 
+In summary, aircraft accidents can cause aircraft damage leading to fatal injuries. Therefore, as a company it is our responsibility to take the neceassary steps to mitigate the risks. 
 
 
 ## Additional Information and resources
